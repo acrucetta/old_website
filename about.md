@@ -4,12 +4,12 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>Hello!, I’m Andres, originally from Venezuela, now living in Chicago, IL. 
-	<br> I'm currently a candidate for the Masters in Computational Analysis for Public Policy (MSCAPP) at the University of Chicago. 
+<p>Welcome!, I’m Andres Crucetta, I grew up in Venezuela and am now living in Chicago, IL. 
+	<br> I'm currently a candidate for the Masters in Computational Analysis for Public Policy (MSCAPP) at the University of Chicago. I'm interested in using technology as a tool of social change and to help governments deliver services more effectively. I've written articles related to this in [Medium](https://medium.com/weekly-acumen) and analyzed cities' open data through different projects in [GitHub](https://github.com/acrucetta?tab=repositories).
 	<br>
-	<br> Before this I worked at PwC helping hospitals with analytics and automation and started a wearable tech start-up, CTRL, to help golf players find their perfect swing with the help of a golf sleeve. 
+	<br> Before this I worked at PwC helping hospitals run more efficiently with analytics and automation, and founded a wearable tech start-up - CTRL.golf - to help golf players find their perfect swing with the help of a golf sleeve. 
 	<br>
-	<br> In my free time, I enjoy playing the piano, trying to do improv comedy, and playing tennis.
+	<br> In my free time, I enjoy cooking Italian food, playing the piano, playing tennis, and cycling.
 </p>
 
 <h2>Skills</h2>
