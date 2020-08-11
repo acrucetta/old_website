@@ -1,22 +1,22 @@
 # main text of home
-name: John Doe
-bio: A Man who travels the world eating noodles
+name: Andres Crucetta
+bio: Interested in policy, technology, and data science
 
 # twitter summary info
 description: A blog about technology and stuff related
 
 # if it's an external image, update below for true
 # better with square images
-external-image: false
-picture: assets/images/profile.jpg
+external-image: true
+picture: https://media-exp1.licdn.com/dms/image/C4D03AQG-Pj_2gdNCXQ/profile-displayphoto-shrink_400_400/0?e=1602720000&v=beta&t=K-7sBut5ouz6-SqeI_9aLhxKfnn2yvjhGseFpaypcLg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume-url: https://drive.google.com/file/d/1Xznd62ocOvCzWIvXv2GM1tIv0YAz4TvB/view?usp=sharing
 
-url: https://sergiokopplin.github.io/indigo
+url: acrucetta.github.io
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
@@ -34,37 +34,31 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+# facebook: myfacebook
+# twitter: mytwitter
 # instagram: myinstagram
 # pinterest: mypinterest
 # linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+github: acrucetta
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: medium
+medium: https://medium.com/@andrescrucetta
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+email: andres.crucetta@hey.com
 
 authors:
-  johndoe:
-    name: John Doe
-    bio: A Man who travels the world eating noodles
-    external-image: false
-    picture: assets/images/profile.jpg
+  andrescrucetta:
+    name: Andres Crucetta
+    bio: Interested in policy, technology, and data science
+    external-image: true
+    picture: https://media-exp1.licdn.com/dms/image/C4D03AQG-Pj_2gdNCXQ/profile-displayphoto-shrink_400_400/0?e=1602720000&v=beta&t=K-7sBut5ouz6-SqeI_9aLhxKfnn2yvjhGseFpaypcLg
     twitter: johndoe
-  jamesfoster:
-    name: James Foster
-    bio: A Man who develops software with coffee
-    external-image: false
-    picture: assets/images/james.jpg
-    twitter: jamesfoster
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
