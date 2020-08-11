@@ -2,9 +2,10 @@
 title: "An analysis of Boston's Airbnb market :house:"
 layout: post
 date: 2020-08-10 22:10
-tag: jekyll
-image: https://www.telegraph.co.uk/content/dam/Travel/Destinations/North%20America/USA/Boston/boston-travel-guide-lead-image-xlarge.jpg
-headerImage: true
+tag: 
+- data science
+image: /assets/images/markdown.jpg
+headerImage: false
 projects: true
 hidden: true # don't count this post in blog pagination
 description: "An analysis of the Boston Airbnb market."
