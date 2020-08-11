@@ -10,7 +10,7 @@ hidden: true # don't count this post in blog pagination
 description: "An analysis of the Boston Airbnb market."
 category: project
 author: andrescrucetta
-externalLink: true
+externalLink: false
 ---
 
 # An analysis of Boston's Airbnb market :house:
