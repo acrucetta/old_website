@@ -4,15 +4,7 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>
-Hello!, I’m Andres, originally from Venezuela, now living in Chicago, IL. 
-
-I'm currently a candidate for the Masters in Computational Analysis for Public Policy (MSCAPP) at the University of Chicago. 
-
-Before this I worked at PwC helping hospitals with analytics and automation and started a wearable tech start-up, CTRL, to help golf players find their perfect swing with the help of a golf sleeve.
-
-In my free time, I enjoy playing the piano, trying to do improv comedy, and playing tennis.
-</p>
+<p>Hello!, I’m Andres, originally from Venezuela, now living in Chicago, IL. <br> I'm currently a candidate for the Masters in Computational Analysis for Public Policy (MSCAPP) at the University of Chicago. <br> Before this I worked at PwC helping hospitals with analytics and automation and started a wearable tech start-up, CTRL, to help golf players find their perfect swing with the help of a golf sleeve. <br> In my free time, I enjoy playing the piano, trying to do improv comedy, and playing tennis.</p>
 
 <h2>Causes I Care About</h2>
 	<li>Building more effective governments with technology</li>
