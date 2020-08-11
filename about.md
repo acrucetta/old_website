@@ -5,7 +5,8 @@ layout: page
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
 <p>Welcome!, I’m Andres Crucetta, I grew up in Venezuela and am now living in Chicago, IL. 
-	<br> I'm currently a candidate for the Masters in Computational Analysis for Public Policy (MSCAPP) at the University of Chicago. I'm interested in using technology as a tool of social change and to help governments deliver services more effectively. I've written articles related to this in [Medium](https://medium.com/weekly-acumen) and analyzed cities' open data through different projects in [GitHub](https://github.com/acrucetta?tab=repositories).
+	<br>
+	<br> I'm currently a candidate for the Masters in Computational Analysis for Public Policy (MSCAPP) at the University of Chicago. I'm interested in using technology as a tool of social change and to help governments deliver services more effectively. I've written articles related to this in <a href="https://medium.com/weekly-acumen">Medium</a> and analyzed cities' open data through different projects in <a href="https://github.com/acrucetta?tab=repositories">GitHub.</a>.
 	<br>
 	<br> Before this I worked at PwC helping hospitals run more efficiently with analytics and automation, and founded a wearable tech start-up - CTRL.golf - to help golf players find their perfect swing with the help of a golf sleeve. 
 	<br>
@@ -22,15 +23,6 @@ layout: page
 	<li>Css Frameworks (Bootstrap)</li>
 	<li>Git</li>
 </ul>
-
-<h2>Causes I Care About</h2>
-<ul class="causes-list">
-	<li>Building more effective governments with technology</li>
-	<li>Community health & access to healthcare</li>
-	<li>Impact of AI in income inequality</li>
-	<li>Democracy in Latin America</li>
-</ul>
-
 <h2>Projects</h2>
 <ul>
 	<li><a href="https://github.com/acrucetta/chicago_COVID_app"> Chicago COVID Dashboard</a></li>
