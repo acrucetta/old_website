@@ -16,7 +16,7 @@ resume: true
 resume-external: true
 resume-url: https://drive.google.com/file/d/1Xznd62ocOvCzWIvXv2GM1tIv0YAz4TvB/view?usp=sharing
 
-url: acrucetta.github.io
+url: https://acrucetta.github.io
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
@@ -78,16 +78,16 @@ projects: true
 
 # if you don't need "about" or "blog", comment them out below
 about: true
-blog: true
+# blog: true
 
 # do you want to show the "read time" of the posts?
-read-time: true
+# read-time: true
 
 # do you want to show the "tags" inside the posts?
-show-tags: true
+# show-tags: true
 
 # related posts inside a post?
-related: true
+# related: true
 
 # Display links for next and previous posts for the specified categories
 post-advance-links: [blog]
