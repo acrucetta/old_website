@@ -6,7 +6,7 @@ tag:
 - data science
 - data visualization
 - web application
-image: assets/images/chicago-bridge.jpg
+image: /Users/andrescrucettanieto/Documents/GitHub/acrucetta.github.io/assets/images/chicago-bridge.jpg
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
