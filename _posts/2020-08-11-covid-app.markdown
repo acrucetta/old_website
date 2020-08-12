@@ -13,7 +13,7 @@ hidden: true # don't count this post in blog pagination
 description: "A dashboard detailing Chicago's re-opening status and latest cases and deaths."
 category: project
 author: andrescrucetta
-externalLink: false
+externalLink: true
 ---
 ## About The Project
 
