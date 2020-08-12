@@ -7,21 +7,31 @@ tag:
 - data visualization
 - web application
 image: 'https://media.timeout.com/images/105658075/image.jpg'
-headerImage: true
+headerImage: false
 projects: true
 hidden: true # don't count this post in blog pagination
 description: "A dashboard detailing Chicago's re-opening status and latest cases and deaths."
 category: project
 author: andrescrucetta
-externalLink: true
+externalLink: false
 ---
-## About The Project
+## About the project
 
 This project was born out of my desire to track Chicago's re-opening stages. In April, the city released an opening plan with five phases that detailed the specific metrics Chicago needed to meet to proceed to the next stage.
 
+I've developed a dashboard with Flask, Plotly, and Python that captures data from the Chicago Open Data project and outputs the current state for the city in a simple way.
+
+The four charts I've selected are:
+- Daily New Cases
+- Daily New Deaths
+- COVID Patients in ICU Beds
+- COVID Patients in Ventilator
+
+After these graphs, I've outlined a list of the reopening stages from Stay at Home (Phase 1), to Reopening the City (Phase 5)
+
 ## Project Demo
 
-<img src="https://media.giphy.com/media/UqwoqfMAmZiV8vG6ea/giphy.gif" width="400" height="200" />
+<img src="https://media.giphy.com/media/UqwoqfMAmZiV8vG6ea/giphy.gif" width="1400" height="300" />
 
 ### Built With
 

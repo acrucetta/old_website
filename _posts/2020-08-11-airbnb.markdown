@@ -5,7 +5,7 @@ date: 2020-08-10 22:10
 tag: 
 - data science
 image: 'assets/images/boston_airbnb.jpg'
-headerImage: true
+headerImage: false
 projects: true
 hidden: true # don't count this post in blog pagination
 description: "An analysis of the Boston Airbnb market."
