@@ -6,7 +6,7 @@ layout: page
 
 <p>Welcome!, I’m Andres Crucetta, I grew up in Venezuela and am now living in Chicago, IL. 
 	<br>
-	<br> I'm currently a candidate for the Masters in Computational Analysis for Public Policy (MSCAPP) at the University of Chicago. I'm interested in using technology as a tool of social change and to help governments deliver services more effectively. I've written articles related to this in <a href="https://medium.com/weekly-acumen">Medium</a> and analyzed cities' open data through different projects in <a href="https://github.com/acrucetta?tab=repositories">GitHub.</a>.
+	<br> I'm currently a candidate for the Masters in Computational Analysis for Public Policy (MSCAPP) at the University of Chicago. I'm interested in using technology as a tool of social change and to help governments deliver services more effectively. I've written articles related to this in <a href="https://medium.com/weekly-acumen">Medium</a> and analyzed cities' open data through different projects in <a href="https://github.com/acrucetta?tab=repositories">GitHub.</a>
 	<br>
 	<br> Before this I worked at PwC helping hospitals run more efficiently with analytics and automation, and founded a wearable tech start-up - CTRL.golf - to help golf players find their perfect swing with the help of a golf sleeve. 
 	<br>
@@ -19,8 +19,7 @@ layout: page
 	<li>MySQL - SQLite</li>
 	<li>Scrum and Kanban</li>
 	<li>HTML</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap)</li>
+	<li>CSS Frameworks (Bootstrap)</li>
 	<li>Git</li>
 </ul>
 <h2>Projects</h2>
