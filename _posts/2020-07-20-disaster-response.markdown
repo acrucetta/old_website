@@ -1,5 +1,5 @@
 ---
-title: "Disaster Response Pipeline"
+title: "Disaster Response Pipeline ⛑️"
 layout: post
 date: 2020-07-20 22:10
 tag: 
@@ -15,12 +15,12 @@ category: project
 author: andrescrucetta
 externalLink: false
 ---
-## Project: Disaster Response Pipeline
+## Disaster Response Pipeline ⛑️
 
-## Table of Contents
+### Table of Contents
 
-- [Project: Disaster Response Pipeline](#project-disaster-response-pipeline)
-- [Table of Contents](#table-of-contents)
+- [Disaster Response Pipeline ⛑️](#disaster-response-pipeline-️)
+  - [Table of Contents](#table-of-contents)
 - [1. Project Overview](#1-project-overview)
 - [2. Project Components](#2-project-components)
   - [2.1. ETL Pipeline](#21-etl-pipeline)
