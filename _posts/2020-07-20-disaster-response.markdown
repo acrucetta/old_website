@@ -89,13 +89,13 @@ Running [this command](#com) **from app directory** will start the web app where
 
 **_Screenshot 1_**
 
-![master](assets/img-screenshots/master.jpg)
+<img src="https://raw.githubusercontent.com/acrucetta/acrucetta.github.io/gh-pages/assets/img-screenshots/master.jpg" alt="Screenshot">
 
 What the app will do is that it will classify the text message into categories so that appropriate relief agency can be reached out for help.
 
 **_Screenshot 2_**
 
-![results](assets/img-screenshots/res.jpg)
+<img src="https://raw.githubusercontent.com/acrucetta/acrucetta.github.io/gh-pages/assets/img-screenshots/res.jpg" alt="Screenshot">
 
 <a id='run'></a>
 
@@ -119,7 +119,7 @@ _DisasterResponse.db_ already exists in _data_ folder but the above command will
 
 **_Screenshot 3_**
 
-![process_data](assets/img-screenshots/process_data.jpg)
+<img src="https://raw.githubusercontent.com/acrucetta/acrucetta.github.io/gh-pages/assets/img-screenshots/process_data.jpg" alt="Screenshot">
 
 <a id='training'></a>
 
@@ -137,7 +137,8 @@ _classifier.pkl_ already exists but the above command will still run and replace
 
 _**Screenshot 4**_
 
-![train_classifier_1](assets/img-screenshots/train_classifier_1.jpg)
+<img src="https://raw.githubusercontent.com/acrucetta/acrucetta.github.io/gh-pages/assets/img-screenshots/train_classifier_1.jpg" alt="Screenshot">
+
 
 It took me around **4 minutes** to train the classifier with grid search.
 
@@ -147,7 +148,7 @@ When the models is saved, it will look something like this.
 
 **_Screenshot 5_**
 
-![train_classifier_2.jpg](assets/img-screenshots/train_classifier_2.jpg)
+<img src="https://raw.githubusercontent.com/acrucetta/acrucetta.github.io/gh-pages/assets/img-screenshots/train_classifier_2.jpg" alt="Screenshot">
 
 <a id='starting'></a>
 
@@ -167,8 +168,7 @@ This will start the web app and will direct you to a URL where you can enter mes
 
 **_Screenshot 6_**
 
-![genre](assets/img-screenshots/genre.jpg)
-
+<img src="https://raw.githubusercontent.com/acrucetta/acrucetta.github.io/gh-pages/assets/img-screenshots/genre.jpg" alt="Screenshot">
 
 <a id='conclusion'></a>
 
@@ -178,11 +178,11 @@ Some information about training data set as seen on the main page of the web app
 
 **_Screenshot 7_**
 
-![genre](assets/img-screenshots/genre.jpg)
+<img src="https://raw.githubusercontent.com/acrucetta/acrucetta.github.io/gh-pages/assets/img-screenshots/genre.jpg" alt="Screenshot">
 
 **_Screenshot 8_**
 
-![dist](assets/img-screenshots/dist.jpg)
+<img src="https://raw.githubusercontent.com/acrucetta/acrucetta.github.io/gh-pages/assets/img-screenshots/dist.jpg" alt="Screenshot">
 
 As we can see the data is highly imbalanced. Though the accuracy metric is [high](#acc) (you will see the exact value after the model is trained by grid search, it is ~0.94), it has a poor value for recall (~0.6). So, take appropriate measures when using this model for decision-making process at a larger scale or in a production environment.
 
