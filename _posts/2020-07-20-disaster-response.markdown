@@ -167,7 +167,8 @@ This will start the web app and will direct you to a URL where you can enter mes
 
 **_Screenshot 6_**
 
-![web_app](assets/img-screenshots/web_app.jpg)
+![genre](assets/img-screenshots/genre.jpg)
+
 
 <a id='conclusion'></a>
 
