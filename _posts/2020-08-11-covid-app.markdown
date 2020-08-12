@@ -1,0 +1,51 @@
+---
+title: "Chicago COVID Re-opening Web App"
+layout: post
+date: 2020-08-10 22:10
+tag: 
+- data science
+- data visualization
+- web application
+image: assets/images/chicago-bridge.jpg
+headerImage: true
+projects: true
+hidden: true # don't count this post in blog pagination
+description: "A dashboard detailing Chicago's re-opening status and latest cases and deaths."
+category: project
+author: andrescrucetta
+externalLink: false
+---
+## About The Project
+
+This project was born out of my desire to track Chicago's re-opening stages. In April, the city released an opening plan with five phases that detailed the specific metrics Chicago needed to meet to proceed to the next stage.
+
+## Project Demo
+
+<img src="https://media.giphy.com/media/UqwoqfMAmZiV8vG6ea/giphy.gif" width="400" height="200" />
+
+### Built With
+
+* Bootstrap
+* Flask
+* Plotly
+* HTML/CSS
+* Python
+
+<!-- GETTING STARTED -->
+## Getting Started
+To get a local copy up and running follow these simple steps.
+
+### Installation
+ 
+1. Clone the repo
+```sh
+git clone https://github.com/acrucetta/chicago_COVID_app.git
+```
+2. Install Environment
+```sh
+source .venv/bin/activate
+```
+3. Run the application in your local server
+```sh
+python myapp.py
+```
