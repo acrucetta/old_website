@@ -12,9 +12,9 @@ picture: https://raw.githubusercontent.com/acrucetta/acrucetta.github.io/gh-page
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: true
-resume-external: true
-resume-url: https://drive.google.com/file/d/1ifVpyAG3Bheiv6cLw2qTweo4tDJGWjNW/view?usp=sharing
+resume: false
+resume-external: false
+resume-url: 
 
 url: https://acrucetta.github.io
 # your url: https://USERNAME.github.io
